@@ -15,5 +15,6 @@ We use auto Arima to get a baseline forecast. Then Analized de data to see if we
 
 Then we outperform autoarima by ~ 3% on a few steps: 
 ![Performance plot](./Images/all_SARIMA_forecast.png)
+![Performance df](./Images/df_table.png)
 
 
