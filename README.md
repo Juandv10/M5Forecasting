@@ -9,7 +9,7 @@ This notebook is designed to support flexible experimentation at multiple aggreg
 Ultimately, this repo is envisioned as a **dynamic canvas**, where each code block contributes to building a deeper, more practical understanding of how to tackle real-world forecasting challenges using the M5 dataset as a reference point.\
 
 
-First step was ARIMA forecast, seen in [this notebook](M5Forecasting.ipynb).
+# First step was ARIMA forecast, seen in [this notebook](M5Forecasting.ipynb).
 
 We use auto Arima to get a baseline forecast. Then Analized de data to see if we can improve the forecast changing the parameters of the model.
 
